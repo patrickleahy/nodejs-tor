@@ -1,0 +1,1 @@
+rsync -avzh -e "ssh -i /Users/patrickleahy/.ssh/recon1.pem" /Users/patrickleahy/work/tor/ ubuntu@174.129.214.103:/home/ubuntu/tor/ --exclude-from 'rsyncignore' --delete
