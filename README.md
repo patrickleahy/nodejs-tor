@@ -25,8 +25,3 @@ This is an early version I pulled out of an application of mine. I plan to refac
   , instanceName         : <String> <JSON>
   , socksPort            : <int> (Optional)
 }
-
-
-
-
-
